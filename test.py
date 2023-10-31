@@ -1,6 +1,6 @@
 import math
 import requests
-import os
+import torch
 
 
 def calculate_factorial(num):
